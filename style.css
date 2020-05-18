@@ -1,0 +1,15 @@
+body{
+	background: #aaaaff;
+	text-align: center;
+}	
+img{
+	margin-top: 20px;
+	border: 5px solid #7575ff;
+}
+.container{
+	text-align: left;
+}
+.container .wyniki{
+	display: block;
+	background: #c4c8ff;
+}
